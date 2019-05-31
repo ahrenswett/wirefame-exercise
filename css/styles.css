@@ -1,5 +1,5 @@
 body{
-    width:1040px;
+    width:1080px;
     margin: auto;
     background-color: bisque
 }
@@ -8,7 +8,7 @@ header{
     background-color: rgb(139, 151, 151);
     text-align: right;
     height: 100px;
-    width: 100%;
+    margin: 30px;
 }
 
 #logo{

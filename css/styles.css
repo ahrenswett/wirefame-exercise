@@ -31,17 +31,34 @@ header section span{
 
 
 
-main{
-    margin-top: 50px;
+#hero{
+    margin: 30px 60px 0 60px;
 }
 
 #imgAndDivHolder{
-    margin-top: 30px;
+    margin: 30px 60px 0 60px;
 }
 
 
 #img1{
     float: left;
+}
+
+
+
+#img2{
+    float: right;
+}
+
+#img3{
+    float: left;
+    margin-left: 30px
+
+}
+
+#img4{
+    float: left;
+    margin: 30px 30px 30px 60px;
 }
 
 div{
@@ -51,10 +68,6 @@ div{
     height: 300px;
     text-align: justify;
     text-justify: inter-word;
-}
-
-#img2{
-    float: right;
 }
 
 #text2{
